@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ppt-generator<br>👯 I’m looking to collaborate on any Machine Learning and Deep Learning project<br>🤝 I’m looking for help with learning more about AI<br>🌱 I’m currently learning NLP and ML<br>💬 Ask me about Python, Machine Learning<br>
+🔭 I’m currently working on ppt-generator<br>👯 I’m looking to collaborate on any Machine Learning and Deep Learning project<br>🤝 I’m looking for help with learning more about AI, NLP and ML<br>🌱 I’m currently learning NLP and ML<br>💬 Ask me about Python, Machine Learning<br>
 
 
 ## 🌐 Socials:

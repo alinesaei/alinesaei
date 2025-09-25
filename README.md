@@ -12,7 +12,7 @@ I'm a **Data Science Master's student** and **Python Developer** passionate abou
 ## Tech Arsenal
 
 **Languages & Frameworks**
-- Python, HTML5, CSS3
+- Python
 - Django (currently learning)
 
 **Data Science & ML**

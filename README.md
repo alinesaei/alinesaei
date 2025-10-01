@@ -30,9 +30,9 @@ I'm a **Data Science Master's student** and **Python Developer** passionate abou
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/aliinesaei)
 
 ## GitHub Activity
+![GitHub Contribution Graph](https://ghchart.rshah.org/alinesaei)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alinesaei&show_icons=true&theme=github_dark&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alinesaei&theme=github_dark&hide_border=true&layout=compact)
 
 ---

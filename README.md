@@ -30,10 +30,8 @@ I'm a **Data Science Master's student** and **Python Developer** passionate abou
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/aliinesaei)
 
 ## GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alinesaei&theme=github-dark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alinesaei&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alinesaei&theme=github_dark&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=alinesaei&theme=github-dark-blue&hide_border=true)
 ---
 
 *Feel free to reach out if you want to discuss ML projects, collaborate on something interesting, or just chat about the latest in AI!*
